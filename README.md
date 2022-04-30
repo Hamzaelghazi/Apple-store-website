@@ -1,6 +1,6 @@
 
-# Gritty-if
-the Gritty is fun a website  created by me using HTML and CSS.
+# Apple-store-website
+apple store is a like small business website that present some products and the clients support ceated by me using HTML and CSS and Bootstrap.
 ## 🚀 About Me
 I'm a front end devloper 
 
@@ -20,11 +20,11 @@ Javascript, HTML, CSS ,Bootstrap, Reactjs , Git and Github
 Install my-project with npm
 
 ```bash
-  npm install the-solar-system-website
-  cd the-solar-system-website
+  npm install Apple-store-website
+  cd Apple-store-website
 ```
     
 ## Lessons Learned
 
-i learn how to use the informations theories that i Learned to build a fun website using HTML CSS. 
+i learn how to use Bootstrap to build a small business website using HTML CSS and Bootstrap . 
 
